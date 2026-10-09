@@ -1,3 +1,5 @@
+
+```text
 velib-analytics-pipeline/
 ├── README.md                  # schéma, choix, limites, captures du DAG
 ├── pyproject.toml / requirements.txt
@@ -36,3 +38,5 @@ velib-analytics-pipeline/
 │   └── app.py                 # Streamlit ou export pour Power BI
 └── docs/
     └── architecture.png
+
+```
